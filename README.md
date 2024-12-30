@@ -15,7 +15,7 @@ https://sepolia.basescan.org/address/0xD3b06cEbF099CE7DA4AcCf578aaebFDBd6e88a93#
 
 https://etherscan.io/address/0xC2291992A08eBFDfedfE248F2CCD34Da63570DF4#writeContract
 
-https://etherscan.io/address/0x411dE17f12D1A34ecC7F45f49844626267c75e81#writeContract
+ARMProxy: https://etherscan.io/address/0x411dE17f12D1A34ecC7F45f49844626267c75e81#writeContract
 
 RMN: https://etherscan.io/address/0xdCD48419bD5Cd9d1b097695F2af4Ee125aADF84F#code
 
