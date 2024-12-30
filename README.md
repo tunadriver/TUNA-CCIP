@@ -24,6 +24,10 @@ https://docs.chain.link/ccip/directory/testnet/chain/ethereum-testnet-sepolia-ba
 
 ## BASE SEPOLIA:
 
+TUNA: 0x935f69375B68dEA4037453551abFe587AaCDa418
+
+https://base-sepolia.blockscout.com/token/0x935f69375B68dEA4037453551abFe587AaCDa418?tab=contract
+
 ARM: 0x99360767a4705f68CcCb9533195B761648d6d807
 
 https://sepolia.basescan.org/address/0x99360767a4705f68CcCb9533195B761648d6d807#code
